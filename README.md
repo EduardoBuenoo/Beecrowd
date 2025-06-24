@@ -9,7 +9,7 @@ Este repositório foi criado para acompanhar meu progresso em algoritmos e lógi
 ## 🧩 Organização
 
 A estrutura do repositório segue o formato:
-
+```
 📦beecrowd
 ┣ 📂1001
 ┃ ┣ 📜1001.c
@@ -19,7 +19,7 @@ A estrutura do repositório segue o formato:
 ┃ ┣ 📜1002.java
 ┃ ┗ 📜1002.py
 ┗ 📂...
-
+```
 
 Cada pasta é identificada pelo **número do problema**, e os arquivos dentro dela representam as soluções em diferentes linguagens.
 
