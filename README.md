@@ -39,8 +39,8 @@ Até o momento:
    ```bash
    git clone https://github.com/EduardoBuenoo/beecrowd.git
 
-   📌 Aviso
+## 📌 Aviso
 Essas soluções são de caráter educacional. Tente resolver os exercícios por conta própria antes de consultar as respostas
 
-📖 Licença
+## 📖 Licença
 Distribuído sob a licença MIT. Fique à vontade para estudar, usar e contribuir com o projeto.
